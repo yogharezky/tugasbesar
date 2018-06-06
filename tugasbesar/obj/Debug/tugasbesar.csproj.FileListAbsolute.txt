@@ -1,0 +1,14 @@
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\bin\Debug\tugasbesar.exe.config
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\bin\Debug\tugasbesar.exe
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\bin\Debug\tugasbesar.pdb
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.Form1.resources
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.Form2.resources
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.Properties.Resources.resources
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.csproj.GenerateResource.Cache
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.exe
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.pdb
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.Form4.resources
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\bin\Debug\logindb.mdf
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\bin\Debug\logindb_log.ldf
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.fm3.resources
+C:\Users\Yogha Rezky Maulana\Documents\Visual Studio 2013\Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.csprojResolveAssemblyReference.cache
